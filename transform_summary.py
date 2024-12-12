@@ -1,3 +1,9 @@
+# @Author: Dhananjay Kumar
+# @Date: 10-12-2024
+# @Last Modified by: Dhananjay Kumar
+# @Last Modified time: 10-12-2024
+# @Title: Python program to perform Gen AI tasks transforming emails using Gemini API
+
 import google.generativeai as genai
 import os
 import csv
